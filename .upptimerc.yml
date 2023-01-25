@@ -3,6 +3,8 @@ owner: wingstako # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
+  - name: wingstako.dev
+    url: https://wingstako.dev
   - name: Wingstako's Neocities
     url: https://wingstako.neocities.org
 
