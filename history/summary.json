@@ -1,5 +1,23 @@
 [
   {
+    "name": "wingstako.dev",
+    "url": "https://wingstako.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/wingstako.dev.ico",
+    "slug": "wingstako-dev",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 369,
+    "timeDay": 369,
+    "timeWeek": 369,
+    "timeMonth": 369,
+    "timeYear": 369,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Wingstako's Neocities",
     "url": "https://wingstako.neocities.org",
     "icon": "https://icons.duckduckgo.com/ip3/wingstako.neocities.org.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 120,
-    "timeWeek": 466,
-    "timeMonth": 1069,
-    "timeYear": 1069,
+    "time": 1060,
+    "timeDay": 454,
+    "timeWeek": 506,
+    "timeMonth": 1060,
+    "timeYear": 1060,
     "dailyMinutesDown": {}
   }
 ]
