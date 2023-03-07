@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 238,
-    "timeWeek": 182,
-    "timeMonth": 200,
-    "timeYear": 179,
+    "time": 182,
+    "timeDay": 286,
+    "timeWeek": 200,
+    "timeMonth": 204,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wingstako.neocities.org.ico",
     "slug": "wingstako-s-neocities",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
-    "time": 1002,
-    "timeDay": 313,
-    "timeWeek": 1560,
-    "timeMonth": 1056,
-    "timeYear": 1002,
+    "uptime": "99.97%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 991,
+    "timeDay": 255,
+    "timeWeek": 1084,
+    "timeMonth": 1023,
+    "timeYear": 991,
     "dailyMinutesDown": {
-      "2023-03-06": 36
+      "2023-03-06": 30
     }
   }
 ]
