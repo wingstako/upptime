@@ -4,7 +4,7 @@
     "url": "https://wingstako.dev",
     "icon": "https://icons.duckduckgo.com/ip3/wingstako.dev.ico",
     "slug": "wingstako-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 192,
     "timeMonth": 204,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-03": 0
+    }
   },
   {
     "name": "Wingstako's Neocities",
