@@ -24,7 +24,7 @@
     "url": "https://wingstako.neocities.org",
     "icon": "https://icons.duckduckgo.com/ip3/wingstako.neocities.org.ico",
     "slug": "wingstako-s-neocities",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 1771,
     "timeYear": 1743,
     "dailyMinutesDown": {
+      "2023-05-21": 0,
       "2023-04-10": 24,
       "2023-03-26": 59,
       "2023-03-20": 33,
