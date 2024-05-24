@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: wingstako.dev
     url: https://wingstako.dev
-  - name: Wingstako's Neocities
-    url: https://wingstako.neocities.org
+  # - name: Wingstako's Neocities
+    # url: https://wingstako.neocities.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
