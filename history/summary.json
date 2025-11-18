@@ -4,17 +4,19 @@
     "url": "https://wingstako.dev",
     "icon": "https://icons.duckduckgo.com/ip3/wingstako.dev.ico",
     "slug": "wingstako-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 142,
-    "timeWeek": 231,
-    "timeMonth": 179,
+    "timeDay": 132,
+    "timeWeek": 218,
+    "timeMonth": 177,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 6
+    }
   }
 ]
